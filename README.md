@@ -11,3 +11,12 @@ git clone <repo link (https link)>
 - git add .
 - git commit -m "مسدج تعرفهم انت عملت ايه"
 - git push
+
+## To Switch to new branch 
+
+- git checkout <the name of branch>
+
+
+## To see the current branch
+
+- git branch
